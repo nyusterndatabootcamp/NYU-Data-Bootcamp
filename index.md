@@ -7,9 +7,9 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 ## Quicklinks:
- **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Data Sources](data.md)**
+ **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** || **[Data Sources](data.md)**
 
-Discussion Groups: **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** | **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
+**Discussion Groups:** **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** || **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
 
 
 **Course Sites:** **[Spring 2018 Undergrad](undergrad_outline.md)** | **[Spring 2018 MBA](mba_outline.md)**
@@ -19,7 +19,7 @@ Discussion Groups: **[Undergrad](https://groups.google.com/d/forum/databootcamp_
 ## Contact information
 
 Courses | [Spring 2018 Undergrad](undergrad_outline.md)  | [Spring 2018 MBA](mba_outline.md)
----|---|---
+:---|:---|:---
 Instructor: | [**Michael Waugh**](https://www.waugheconomics.com)  |  **Benjamin Zweig**
 Email: | [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu) |  [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office: | KMC 7-74   |  By Appointment
