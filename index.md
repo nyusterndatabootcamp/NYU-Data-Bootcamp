@@ -19,7 +19,7 @@ Discussion Groups: **[Undergrad](https://groups.google.com/d/forum/databootcamp_
 ## Contact information
 
 Courses | [Spring 2018 Undergrad](undergrad_outline.md)  | [Spring 2018 MBA](mba_outline.md)
-|:---|:---|:---
+---|---|---
 Instructor: | [**Michael Waugh**](https://www.waugheconomics.com)  |  **Benjamin Zweig**
 Email: | [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu) |  [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office: | KMC 7-74   |  By Appointment
