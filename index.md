@@ -7,7 +7,10 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 ## Quicklinks:
- **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups: **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** | **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** | **[Data Sources](undergrad_outline.md)**
+ **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Data Sources](data.md)**
+
+Discussion Groups: **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** | **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
+
 
 **Course Sites:** **[Spring 2018 Undergrad](undergrad_outline.md)** | **[Spring 2018 MBA](mba_outline.md)**
 
