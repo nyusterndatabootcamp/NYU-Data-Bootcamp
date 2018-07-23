@@ -16,7 +16,7 @@ If that doesn't convince you, there's more on our [FAQ](faq.md).
 ## Contact information
 
 [Spring 2018 Undergrad](undergrad_outline.md)  | [Spring 2018 MBA](mba_outline.md)
-:---|:---
+---|---
 Instructor: [**Michael Waugh**](https://www.waugheconomics.com)  |  **Benjamin Zweig**
 Email: [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu) |  [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office: KMC 7-74   |  By Appointment
@@ -26,6 +26,6 @@ Office Hours: TBA  |  By Appointment
 
 In addition to the quick links at the top, keep in mind:
 
-* Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) || [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) || [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) || [Experiments](https://github.com/NYUDataBootcamp/Lab)
+* Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) || [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) || [Experiments](https://github.com/NYUDataBootcamp/Lab)
 
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
