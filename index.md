@@ -7,7 +7,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 ## Quicklinks:
-**[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Data Sources](data.md)**
+**[Book](https://nyudatabootcamp.gitbook.io/thebook/)** | **[Data Sources](data.md)**
 
 **Discussion Groups:** **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** & **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
 
@@ -29,6 +29,6 @@ Office Hours: | TBA  |  By Appointment
 
 In addition to the quick links at the top, keep in mind:
 
-* Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) & [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) & [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) & [Experiments](https://github.com/NYUDataBootcamp/Lab)
+* Our **GitHub repository** (collection of files): <!---[Course Materials](https://github.com/NYUDataBootcamp/Materials) & ---> [Jupyter notebooks](https://github.com/nyusterndatabootcamp/notebooks) <!--- & [Experiments](https://github.com/NYUDataBootcamp/Lab) --->
 
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
