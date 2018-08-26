@@ -17,7 +17,7 @@ Last update: 1/16/2018
 
 ---
 ## Important Links
-- **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS.](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_F18.pdf)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 - **[THE BLOG.]({{< ref "undergrad_spring_2018_blog.md" >}})** Remember this course is a data course that uses Python. In THE BLOG, I'll discuss interesting uses of data that I find on the web and talk through various issues.
