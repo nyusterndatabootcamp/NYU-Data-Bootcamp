@@ -46,8 +46,8 @@ Last update: 1/16/2018
 
 <br>
 
-## Topic 1.  Data + Python = Magic!
-
+## Topic 1.  Introduction: Data + Python = Magic!
+**Day and Date:** Wednesday, 9/5/2018 <br>
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_intro.pdf) | [Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details) (Click on blue "Read" button) | [Three ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_3ideas.pdf) <br>
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [cancer screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [medical expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender pay gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
