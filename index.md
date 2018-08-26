@@ -18,11 +18,25 @@ If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 ## Contact information
 
-Courses | [Fall 2018 Undergrad](undergrad_outline.md)  | [Fall 2018 MBA](mba_outline.md)
-:---|:---|:---
-Instructor: **Benjamin Zweig**
+Instructor: **Benjamin Zweig** 
 Email: [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office Hours: | TBA  |  By Appointment
+
+TF :**Rahul Menon**
+Email: [rrm423@stern.nyu.edu](mailto:rrm423@stern.nyu.edu)
+Office Hours: | TBA  
+
+TF :**Aditya Vashistha**
+Email: [aav331@stern.nyu.edu](mailto:aav331@stern.nyu.edu)
+Office Hours: | TBA  
+
+
+TF :**Yu-Ping Lin**
+Email: [ypl238@stern.nyu.edu](mailto:ypl238@stern.nyu.edu)
+Office Hours: | TBA  
+
+
+
 
 ## Other materials
 
