@@ -7,9 +7,11 @@ Last update: 1/16/2018
 ---
 
 ## Where and When
-- Who: [Michael Waugh](mailto:mwaugh@stern.nyu.edu)  (instructor), [Vineetha Kutty](mailto:vkk242@nyu.edu) (teaching fellow)
+- Who: [Benjamin Zweig](mailto:bzweig@stern.nyu.edu)  (instructor), [Rahul Menon](mailto:rrm423@nyu.edu) (teaching fellow), 
+                                                                    [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow)
 
-- Meeting times: Tuesday and Thursday 11am-12:15pm
+- Meeting times: Monday and Wednesday 9:30 am - 10:45 am 
+                 Monday and Wednesday 11:00 am - 12:15 am
 
 - Meeting place: KMC 3-70
 
