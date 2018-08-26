@@ -140,13 +140,17 @@ In class code/lectures:
 
 ## Review 
 **Day and Date:** Wednesday, 10/17/2018 <br>
+
 ----
+
+
 
 **EXAM** **Monday, October 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 45 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
 
  - Two practice exams: [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_one.ipynb) and [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_two.ipynb).  
 
 ---
+
 ## Topic 7.  Thinking about projects
 **Day and Date:** Wednesday, 10/24/2018 <br>
 **Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
