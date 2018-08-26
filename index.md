@@ -22,16 +22,16 @@ Instructor: **Benjamin Zweig**
 Email: [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office Hours: | TBA  |  By Appointment
 
-TF :**Rahul Menon**
+TF: **Rahul Menon**
 Email: [rrm423@stern.nyu.edu](mailto:rrm423@stern.nyu.edu)
 Office Hours: | TBA  
 
-TF :**Aditya Vashistha**
+TF: **Aditya Vashistha**
 Email: [aav331@stern.nyu.edu](mailto:aav331@stern.nyu.edu)
 Office Hours: | TBA  
 
 
-TF :**Yu-Ping Lin**
+TF: **Yu-Ping Lin**
 Email: [ypl238@stern.nyu.edu](mailto:ypl238@stern.nyu.edu)
 Office Hours: | TBA  
 
