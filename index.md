@@ -12,7 +12,7 @@ If that doesn't convince you, there's more on our [FAQ](faq.md).
 **Discussion Groups:** **[Undergrad](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** & **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
 
 
-**Course Sites:** **[Spring 2018 Undergrad](undergrad_outline.md)** & **[Spring 2018 MBA](mba_outline.md)**
+**Course Sites:** **[Fall 2018 Undergrad](undergrad_outline.md)** & **[Spring 2018 MBA](mba_outline.md)**
 
  Look left too! One the course sites you will find the syllabus, class outlines and topics, deliverables, and any other course specific information.
 
