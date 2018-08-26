@@ -1,8 +1,8 @@
-# Data Bootcamp: Undergrad Spring 2018
+# Data Bootcamp: Undergrad Fall 2018
 
 This page is your key resource for the course. Everything you need is here! Below are links to key documents such as the syllabus, the book, the blog, and my GitHub repository for the class. Moreover, there is a date by date list of topics, and links to material used in each class. **Please watch this site regularly to stay up to date.**
 
-Last update: 1/16/2018
+Last update: 8/26/2018
 
 ---
 
