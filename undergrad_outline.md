@@ -11,7 +11,7 @@ Last update: 1/16/2018
                                                                     [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow)
 
 - Meeting times: Monday and Wednesday 9:30 am - 10:45 am (Section 1),<br/>
-                 Monday and Wednesday 11:00 am - 12:15 am (Section 2) 
+                 Monday and Wednesday 11:00 am - 12:15 pm (Section 2) 
 
 - Meeting place: KMC 3-70
 
