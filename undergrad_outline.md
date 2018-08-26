@@ -10,8 +10,8 @@ Last update: 1/16/2018
 - Who: [Benjamin Zweig](mailto:bzweig@stern.nyu.edu)  (instructor), [Rahul Menon](mailto:rrm423@nyu.edu) (teaching fellow), 
                                                                     [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow)
 
-- Meeting times: Monday and Wednesday 9:30 am - 10:45 am 
-                 Monday and Wednesday 11:00 am - 12:15 am
+- Meeting times: Monday and Wednesday 9:30 am - 10:45 am (Section 1)
+                 Monday and Wednesday 11:00 am - 12:15 am (Section 2) 
 
 - Meeting place: KMC 3-70
 
