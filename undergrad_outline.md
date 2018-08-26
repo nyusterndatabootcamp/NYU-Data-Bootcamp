@@ -145,7 +145,8 @@ In class code/lectures:
 
 
 
-**EXAM** **Monday, October 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 45 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
+## Exam 
+**Monday, October 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 45 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
 
  - Two practice exams: [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_one.ipynb) and [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_two.ipynb).  
 
