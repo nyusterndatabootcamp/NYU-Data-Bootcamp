@@ -9,7 +9,7 @@ If that doesn't convince you, there's more on our [FAQ](faq.md).
 ## Quicklinks:
 **[Book](https://nyudatabootcamp.gitbook.io/thebook/)** | **[Data Sources](data.md)**
 
-**Discussion Groups:** **[Undergrad](http://newclasses.nyu.edu/)** & **[MBA: Use NYU Classes Forum](http://newclasses.nyu.edu/)** 
+**[Discussion Groups](http://newclasses.nyu.edu/)** 
 
 
 
