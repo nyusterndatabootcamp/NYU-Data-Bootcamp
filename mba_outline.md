@@ -1,4 +1,4 @@
-# Data Bootcamp: MBA Spring 2018
+# Data Bootcamp: MBA Fall 2018
 
 ---
 
