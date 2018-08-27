@@ -7,8 +7,8 @@ Last update: 8/26/2018
 ---
 
 ## Where and When
-- Who: [Benjamin Zweig](mailto:bzweig@stern.nyu.edu)  (instructor), [Rahul Menon](mailto:rrm423@nyu.edu) (teaching fellow), 
-                                                                    [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow)
+- Who: [Benjamin Zweig](mailto:bzweig@stern.nyu.edu)  (instructor), [Rahul Menon](mailto:rrm423@nyu.edu) (teaching fellow - Section 1 - Undergrad), 
+                                                                    [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow -Section 2 -undergrad )
 
 - Meeting times: Monday and Wednesday 9:30 am - 10:45 am (Section 1),<br/>
                  Monday and Wednesday 11:00 am - 12:15 pm (Section 2) 
