@@ -24,6 +24,8 @@ Last update: 8/26/2018
 - **[THE BLOG.]({{< ref "undergrad_spring_2018_blog.md" >}})** Remember this course is a data course that uses Python. In THE BLOG, I'll discuss interesting uses of data that I find on the web and talk through various issues.
 - **[My GitHub REPOSITORY](https://github.com/mwaugh0328/data_bootcamp_spring_2018)** Here I will post notebooks from each class.
 
+- **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
+
 ---
 ## Important Dates
 
