@@ -22,15 +22,21 @@ Instructor: **Benjamin Zweig**
 Email: [bzweig@stern.nyu.edu](mailto:bzweig@stern.nyu.edu)
 Office Hours: | TBA  |  By Appointment
 
+
+TF information:
+
+Undergrad - Section 1 (Monday and Wednesday 9 30 am - 10 45 am)
 TF: **Rahul Menon**
 Email: [rrm423@stern.nyu.edu](mailto:rrm423@stern.nyu.edu)
 Office Hours: | TBA  
 
+Undergrad - Section 2 (Monday and Wednesday 11 am - 12 15 pm)
 TF: **Aditya Vashistha**
 Email: [aav331@stern.nyu.edu](mailto:aav331@stern.nyu.edu)
 Office Hours: | TBA  
 
 
+Grad - MBA (Thursday 6pm - 9pm) 
 TF: **Yu-Ping Lin**
 Email: [ypl238@stern.nyu.edu](mailto:ypl238@stern.nyu.edu)
 Office Hours: | TBA  
