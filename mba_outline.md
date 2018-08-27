@@ -2,7 +2,7 @@
 
 ---
 
-## Where and When a
+## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
 - Teaching fellow: **Yu-Ping Lin** (ypl238@nyu.edu)   
 - Meeting times: Tuesday 6 PM- 9 PM
