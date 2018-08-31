@@ -105,7 +105,7 @@ Last update: 8/26/2018
 
 ## Topic 5.  Intro to Pandas - Data Input 
 **Day and Date:** Wednesday, 10/03/2018 <br>
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 3)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pd) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 3)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf) (Download "Raw" as ipynb) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
@@ -124,7 +124,7 @@ In class code/lectures:
 ---
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Monday, 10/15/2018 <br>
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)|[Code Practice #3 (Due by October 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pd) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)|[Code Practice #3 (Due by October 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pdf) (Download "Raw" as ipynb) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
