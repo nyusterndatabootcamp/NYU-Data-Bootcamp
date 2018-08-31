@@ -20,9 +20,11 @@ Last update: 8/26/2018
 ## Important Links
 - **[THE SYLLABUS.](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_F18.pdf)** All the important details about the course, procedures, important dates, etc.
 
-- **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
+- **[THE BOOK.](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
+
 - **[THE BLOG.]({{< ref "undergrad_spring_2018_blog.md" >}})** Remember this course is a data course that uses Python. In THE BLOG, I'll discuss interesting uses of data that I find on the web and talk through various issues.
-- **[My GitHub REPOSITORY](https://github.com/mwaugh0328/data_bootcamp_spring_2018)** Here I will post notebooks from each class.
+
+- **[NOTEBOOKS](https://github.com/nyusterndatabootcamp/notebooks/tree/master/book_notebooks)** Github repository of notebooks used in class.
 
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
 
@@ -50,6 +52,7 @@ Last update: 8/26/2018
 ## Topic 1.  Introduction: Data + Python = Magic!
 **Day and Date:** Wednesday, 9/5/2018 <br>
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_intro.pdf) | [Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details) (Click on blue "Read" button) | [Three ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_3ideas.pdf) <br>
+
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [cancer screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [medical expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender pay gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
 
