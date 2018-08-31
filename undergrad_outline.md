@@ -51,7 +51,7 @@ Last update: 8/26/2018
 
 ## Topic 1.  Introduction: Data + Python = Magic!
 **Day and Date:** Wednesday, 9/5/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_intro.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_intro.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
 
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [cancer screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [medical expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender pay gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
@@ -59,7 +59,7 @@ Last update: 8/26/2018
 ---
 ## Topic 1.  Introduction (TF's recitation)
 **Day and Date:** Monday, 9/10/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due 5pm February 2nd, hard copy)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due 5pm February 2nd, hard copy)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
@@ -109,14 +109,14 @@ Last update: 8/26/2018
 
 ## Topic 5.  Intro to Pandas - Data Input 
 **Day and Date:** Wednesday, 10/03/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 3)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 3)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pd) (Download "Raw" as ipynb) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
 
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Wednesday, 10/10/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
@@ -128,7 +128,7 @@ In class code/lectures:
 ---
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Monday, 10/15/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)|[Code Practice #3 (Due by October 15)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)|[Code Practice #3 (Due by October 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pd) (Download "Raw" as ipynb) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
