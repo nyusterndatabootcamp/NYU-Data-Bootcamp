@@ -51,7 +51,7 @@ Last update: 8/26/2018
 
 ## Topic 1.  Introduction: Data + Python = Magic!
 **Day and Date:** Wednesday, 9/5/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_intro.pdf) | [Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details) (Click on blue "Read" button) | [Three ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_3ideas.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_intro.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
 
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [cancer screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [medical expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender pay gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
@@ -66,27 +66,27 @@ Last update: 8/26/2018
 
 ## Topic 2.  Python fundamentals 1
 **Day and Date:** Wednesday, 9/12/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due 5pm February 2nd, hard copy)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code Practice #1 (Due 5pm February 2nd, hard copy)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
 ## Topic 3.  Python fundamentals 2
 **Day and Date:** Monday, 9/17/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) 
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) 
 (https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 --
 ## Topic 2.  Python fundamentals 1 (TF's recitation) 
 **Day and Date:** Wednesday, 9/19/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) 
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) 
 (https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 --
 ## Topic 3.  Python fundamentals 2 (TF's recitation)
 **Day and Date:** Monday, 9/24/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) 
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) 
 (https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
@@ -94,14 +94,14 @@ Last update: 8/26/2018
 
 ## Topic 4.  Python fundamentals 3 
 **Day and Date:** Wednesday, 9/26/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html)|[Code Practice #1 (Due by September 26)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2)|[Code Practice #1 (Due by September 26)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) (Download "Raw" as ipynb) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
 
 ## Topic 4.  Python fundamentals 3  (TF's recitation)
 **Day and Date:** Monday, 10/01/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) 
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) 
 (https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
@@ -116,7 +116,7 @@ Last update: 8/26/2018
 
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Wednesday, 10/10/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
@@ -128,7 +128,7 @@ In class code/lectures:
 ---
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Monday, 10/15/2018 <br>
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html)|[Code Practice #3 (Due by October 15)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)|[Code Practice #3 (Due by October 15)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf) (Download "Raw" as ipynb) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
@@ -157,8 +157,9 @@ In class code/lectures:
 
 ## Topic 7.  Thinking about projects
 **Day and Date:** Wednesday, 10/24/2018 <br>
-**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
-**Summary:**  Projects: Say something interesting with data.  Idea machines. Examples.
+
+**Handouts:** [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
 ## Topic 8.  Exam Review and DataFrames
