@@ -60,7 +60,7 @@ Last update: 8/26/2018
 ## Topic 1.  Introduction (TF's recitation)
 **Day and Date:** Monday, 9/10/2018 <br>
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) <br>
-**Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
+**Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
 
 ---
 
