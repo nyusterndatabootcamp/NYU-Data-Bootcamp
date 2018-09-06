@@ -39,7 +39,7 @@ Office Hours: | TBA
 
 Grad - MBA (Thursday 6pm - 9pm) <br>
 TF: **Yu-Ping Lin**
-Email: [ypl238@stern.nyu.edu](mailto:ypl238@stern.nyu.edu)
+Email: [ypl238@stern.nyu.edu](mailto:ypl238@nyu.edu)
 Office Hours: | TBA  
 
 
