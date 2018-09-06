@@ -26,18 +26,18 @@ Office Hours: | TBA  |  By Appointment
 
 TF information: <br>
 
-Undergrad - Section 1 (Monday and Wednesday 9 30 am - 10 45 am)<br>
+Undergrad - Section 1 (Monday and Wednesday 9:30 am - 10:45 am)<br>
 TF: **Rahul Menon**
 Email: [rrm423@stern.nyu.edu](mailto:rrm423@stern.nyu.edu)
 Office Hours: | TBA  
 
-Undergrad - Section 2 (Monday and Wednesday 11 am - 12 15 pm)<br>
+Undergrad - Section 2 (Monday and Wednesday 11:am - 12:15 pm)<br>
 TF: **Aditya Vashistha**
 Email: [aav331@stern.nyu.edu](mailto:aav331@stern.nyu.edu)
 Office Hours: | TBA  
 
 
-Grad - MBA (Thursday 6pm - 9pm) <br>
+Grad - MBA (Thursday 6:00pm - 9:00pm) <br>
 TF: **Yu-Ping Lin**
 Email: [ypl238@nyu.edu](mailto:ypl238@nyu.edu)
 Office Hours: | TBA  
