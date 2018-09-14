@@ -5,6 +5,7 @@
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
 - Teaching fellow: **Yu-Ping Lin** (ypl238@nyu.edu)   
+  - office hour: KMC 7-100, Thursday 1 PM - 2 PM (knock the door, I will open for you)
 - Meeting times: Tuesday 6 PM- 9 PM
 
 - Meeting place: KMC 4-80
