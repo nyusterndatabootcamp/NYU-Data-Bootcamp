@@ -40,7 +40,7 @@ Office Hours: | TBA
 Grad - MBA (Thursday 6:00 pm - 9:00 pm) <br>
 TF: **Yu-Ping Lin**
 Email: [ypl238@nyu.edu](mailto:ypl238@nyu.edu)
-Office Hours: | KMC 7-100, Thursday 1 PM - 2 PM (knock the door, I will open for you)
+- Office Hours: | KMC 7-100, Thursday 1 PM - 2 PM (knock the door, I will open for you)
 
 
 
