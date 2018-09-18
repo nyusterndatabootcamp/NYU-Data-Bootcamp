@@ -67,13 +67,13 @@ Assignments will be posted on NYU Classes. Submit your python code in PDF format
 ---
 ## Topic 4.  Data input:  Packages and Pandas
 **Day and Date:** Thursday 10/18/2018
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Python/bootcamp_pandas-input.py) (Download "Raw") | <!-- Code Practice 3 (coming soon) --> [Code Practice #2 (Due October 18)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | <!-- Code Practice 3 (coming soon) --> [Code Practice #2 (Due October 18)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
 ## Topic 5.  Python graphics:  Matplotlib fundamentals
 **Day and Date:** Thursday 10/25/2018
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | [Code Practice #3 (Due by October 25)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | [Code Practice #3 (Due by October 25)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pdf) <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.
 
 ---
