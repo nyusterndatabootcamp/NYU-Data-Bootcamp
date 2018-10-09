@@ -26,7 +26,11 @@ Last update: 8/26/2018
 
 - **[NOTEBOOKS](https://github.com/nyusterndatabootcamp/notebooks/tree/master/book_notebooks)** Github repository of notebooks used in class.
 
-- **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
+- **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab. 
+
+- **[DISCUSSION GROUP](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Project%20Links%20for%20Reference_v1.pdf)** Post your doubts on NYU Classes forum tab.  
+
+
 
 ---
 ## Important Dates
