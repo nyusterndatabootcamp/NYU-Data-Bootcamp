@@ -28,7 +28,7 @@ Last update: 8/26/2018
 
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab. 
 
-- **[DISCUSSION GROUP](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Project%20Links%20for%20Reference_v1.pdf)** Post your doubts on NYU Classes forum tab.  
+- **[PROJECT LINKS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Project%20Links%20for%20Reference_v1.pdf)** Post your doubts on NYU Classes forum tab.  
 
 
 
