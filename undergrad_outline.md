@@ -188,6 +188,7 @@ In class code/lectures:
 ---
 ## Topic 10.b  Stats Models (contd)
 **Day and Date:** Monday, 11/12/2018 <br>
+**Data Link:** https://raw.githubusercontent.com/mwaugh0328/Data_Bootcamp_Fall_2017/master/data_bootcamp_1127/trump_data.csv<br>
 
 ---
 ## Topic 10.c  Stats Models (contd)
