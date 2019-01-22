@@ -11,7 +11,7 @@ In less than a week we will have our first meeting and get the semester started.
 
 (1) Read the [Syllabus](https://github.com/nyusterndatabootcamp/teaching_materials/raw/master/documents/bootcamp_syllabus.pdf). I’ve posted the syllabus for the upcoming semester at our course website:
 
-https://nyu.data-bootcamp.com/undergrad_outline.html
+[https://nyu.data-bootcamp.com/undergrad_outline.html](https://nyu.data-bootcamp.com/undergrad_outline.html)
 
 This has information about important dates, texts, grading, etc. Please take some time to go over this prior to our first class meeting.
 
@@ -19,7 +19,7 @@ This has information about important dates, texts, grading, etc. Please take som
 
 (3) Take the online survey. This link below:
 
-https://goo.gl/forms/jOHN8okTR4gWseAB2
+[https://goo.gl/forms/jOHN8okTR4gWseAB2](https://goo.gl/forms/jOHN8okTR4gWseAB2)
 
 has a survey for you to complete. Completing this will partially go towards your participation / professionalism grade.
 
