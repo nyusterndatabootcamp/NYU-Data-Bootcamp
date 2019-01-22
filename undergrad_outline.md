@@ -37,7 +37,7 @@ Last update: 1/22/2019
 
 ## Week By Week Guide...
 
-<br>
+---
 
 ## Topic 1.  Introduction: Data + Python = Magic!
 
