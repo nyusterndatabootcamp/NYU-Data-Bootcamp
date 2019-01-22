@@ -9,7 +9,7 @@ This is a very exciting course…the world is awash in data and being able to (i
 
 In less than a week we will have our first meeting and get the semester started. I want to reach out to you about some features of this course to help you prepare for the semester ahead.
 
-(1) Read the Syllabus. I’ve posted the syllabus for the upcoming semester at our course website:
+(1) Read the [Syllabus](https://github.com/nyusterndatabootcamp/teaching_materials/raw/master/documents/bootcamp_syllabus.pdf). I’ve posted the syllabus for the upcoming semester at our course website:
 
 https://nyu.data-bootcamp.com/undergrad_outline.html
 
