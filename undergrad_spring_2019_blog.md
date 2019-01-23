@@ -3,7 +3,7 @@
 ---
 **Freakonomics and Big Data**
 
-Here is a really funny, nice talk about using Big Data by Steve Levitt (Author of the book Freakonomics). It's long, you will laugh. At least try to get through the first five minutes about Sumo wrestling.
+Here is a really funny, nice talk about Big Data (in business and academics) by Steve Levitt (Author of the book Freakonomics). It's long, but you will laugh. At least try to get through the first five minutes about Sumo wrestling...or the "punched in the face question"...make it to the end and you can hear about MBA's...
 
 https://youtu.be/r5jATFtKtI8?t=5m12s
 
