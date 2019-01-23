@@ -1,7 +1,16 @@
 # THE BLOG: Undergrad Spring 2019
 
 ---
+**Freakonomics and Big Data**
+
+Here is a really funny, nice talk about using Big Data by Steve Levitt (Author of the book Freakonomics). It's long, you will laugh. At least try to get through the first five minutes about Sumo wrestling.
+
+https://youtu.be/r5jATFtKtI8?t=5m12s
+
+---
+
 **January 22, 2019: Welcome to Data Bootcamp...**
+
 
 Welcome to Data Bootcamp!
 
