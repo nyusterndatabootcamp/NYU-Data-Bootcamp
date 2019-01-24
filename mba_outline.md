@@ -6,7 +6,7 @@
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
 - Teaching fellow: **Aditya Vashishta**(aav331@stern.nyu.edu)
                    **Rahul Menon**(rrm423@stern.nyu.edu) 
-  - office hour: TBA
+- office hour: TBA
 - Meeting times: TBA
 
 - Meeting place: TBA
