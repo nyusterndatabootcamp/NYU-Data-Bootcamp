@@ -4,7 +4,7 @@
 
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
-- Teaching fellow: **Aditya Vashishta**(aav331@stern.nyu.edu)
+- Teaching fellow: **Aditya Vashishta**(aav331@stern.nyu.edu)<br>
                    **Rahul Menon**(rrm423@stern.nyu.edu) 
 - office hour: TBA
 - Meeting times: TBA
@@ -21,29 +21,6 @@
 - **[NOTEBOOKS](https://github.com/nyusterndatabootcamp/notebooks/tree/master/book_notebooks)** Github repository of notebooks used in class.
 
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
-
----
-## Important Dates
-
-- **Problem Set 1** Due Date: **TBA**
-
-- **Problem Set 2** Due Date: **TBA**
-
-- **Problem Set 3** Due Date: **TBA**
-
-- **Problem Set 4** Due Date: **TBA**
-
-- **Problem Set 5** Due Date: **TBA**
-
-- **Problem Set 6** Due Date: **TBA**
-
-- **Problem Set 7** Due Date: **TBA**
-
-- **Problem Set 8** Due Date: **TBA**
-
-- **Final Project Report** Due Date: **TBA**
-
-
 
 
 - **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** Due Date: **TBA**
@@ -73,19 +50,19 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 ## Class 3: Python fundamentals 3
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code Practice #1 (Due October 11)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.<br>
 **What's due:** Problem Set 2
 
 ---
 ## Class 4: Data Input, Packages, & Pandas
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | <!-- Code Practice 3 (coming soon) --> [Code Practice #2 (Due October 18)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
 **What's due:** Problem Set 3
 
 ---
 ## Class 5: Matplotlib
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | [Code Practice #3 (Due by October 25)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_3.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.<br>
 **What's due:** Problem Set 4
 
@@ -106,20 +83,20 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ---
 ## Class 8: Regression
 **Handouts:** [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
-**Summary:**  Basic Regression Analysis for predictions.<br>
+**Summary:**  Basic Regression Analysis <br>
 **What's due:** Project ideas submission
 
 ---
 ## Class 9: Shaping
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
-**Summary:**  Here we introduce four key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.<br>
+**Summary:**  Aggregations and grouping the data. <br>
 **What's due:** Problem Set 6
 
 ---
 ## Class 10: Combining & intro to Machine Learning
 **Handouts:** 
 ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
-**Summary:**  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category. We also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
+**Summary:**  Combining dataframes (merge, concatenate). We will also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
 **What's due:** Submit project data & show input with basic diagnostics
 
 
