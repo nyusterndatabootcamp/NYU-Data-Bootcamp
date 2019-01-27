@@ -107,7 +107,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **Summary:**  More into ML and project discussions.<br>
 **What's due:** Problem Set 7
 
----
+----
 ## Class 12: Data Analysis workflow
 **Summary** Walk through a data analysis pipeline from importing, exploring, cleaning, visualizing and forming analysis.
 **What's due:** Problem Set 8
