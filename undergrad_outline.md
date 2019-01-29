@@ -32,7 +32,11 @@ Last update: 1/22/2019
 ---
 ## Important Dates
 
-- TBA
+- Problem Sets:
+- Take Home Midterm
+- Guided project
+- Independent project
+
 ---
 
 ## Week By Week Guide...
@@ -41,20 +45,20 @@ Last update: 1/22/2019
 
 ## Topic 1.  Introduction: Data + Python = Magic!
 
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_intro.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
+**Handouts:**  [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
 **Summary:**  It's nice to have skills; installing Anaconda; Jupyter/IPython; data; questions; idea machines.
 
 ---
 
 ## Topic 2.  Python fundamentals 1
 
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_one.ipynb) <br>
+**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_one.ipynb) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
 ## Topic 3.  Python fundamentals 2
 
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb)<br>
+**Handouts:**   [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb)<br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
