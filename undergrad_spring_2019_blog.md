@@ -1,6 +1,17 @@
 # THE BLOG: Undergrad Spring 2019
 
 ---
+
+What have we been doing in class. If you are unsure one way to see what is going on is to check out my code repository on github here:
+
+https://github.com/mwaugh0328/data_bootcamp_spring_2019
+
+Where I will be posting the code from each class that we worked through.
+
+How do you download a notebook? Simple, click on a notebook you want. Github should show the notebook, then right click on "raw" and do "save as" this will allow you to save the notebook to where ever you want on your computer. There you can see what we did, etc. 
+
+
+---
 **Freakonomics and Big Data**
 
 Here is a really funny, nice talk about Big Data (in business and academics) by Steve Levitt (Author of the book Freakonomics). It's long, but you will laugh. At least try to get through the first five minutes about Sumo wrestling...or the "punched in the face question"...make it to the end and you can hear about MBA's...
