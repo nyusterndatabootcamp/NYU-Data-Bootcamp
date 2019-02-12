@@ -33,6 +33,10 @@ Last update: 1/22/2019
 ## Important Dates
 
 - Problem Sets:
+  - [Code Practice #1 (Due by FEB 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf)
+  - [Code Practice #2 (Due by ...)]()
+  - [Code Practice #3 (Due by ...)]()
+  - [Code Practice #4 (Due by ...)]()
 - Take Home Midterm
 - Guided project
 - Independent project
@@ -65,19 +69,19 @@ Last update: 1/22/2019
 
 ## Topic 4.  Python fundamentals 3
 
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb) | [Code Practice #1 (Due by September 26)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**   [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
 
 ## Topic 5.  Intro to Pandas
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | [Code Practice #2 (Due by October 3)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf) <br>
+**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
 
 ## Topic 6.  Python graphics:  Matplotlib fundamentals
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_matplotlib.ipynb) <br>
+**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_matplotlib.ipynb) <br>
 **Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
 
 In class code/lectures:
