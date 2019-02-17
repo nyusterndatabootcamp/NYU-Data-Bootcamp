@@ -1,6 +1,20 @@
 # THE BLOG: Undergrad Spring 2019
 
 ---
+**Code Practice #2**
+
+This is [posted now](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf), lets complete this by the February 22nd.
+
+This will essentially cover Python fundamentals 2, so things like...
+- Booleans
+- if than statements
+- for loops
+- functions
+- properties of objects (e.g. methods and attributes)
+
+We will put this to work with the Poe poem. Then start our intro to pandas this coming week.
+
+---
 **Code Practice #1**
 
 Tips/Help/Common Questions...
