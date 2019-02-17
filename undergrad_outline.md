@@ -34,7 +34,7 @@ Last update: 1/22/2019
 
 - Problem Sets:
   - [Code Practice #1 (Due by FEB 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf)
-  - [Code Practice #2 (Due by ...)]()
+  - [Code Practice #2 (Due by FEB 22)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf)
   - [Code Practice #3 (Due by ...)]()
   - [Code Practice #4 (Due by ...)]()
 - Take Home Midterm

@@ -1,6 +1,14 @@
 # THE BLOG: Undergrad Spring 2019
 
 ---
+**Code Practice #1**
+
+Tips/Help/Common Questions...
+
+- The last question. If you have a problem set sheet (there was an old one floating around), that asks to post a .csv file to gitub...**ignore** it. Just report the time it took you in the your jupyter notebook.
+
+
+---
 
 What have we been doing in class. If you are unsure one way to see what is going on is to check out my code repository on github here:
 
@@ -8,7 +16,7 @@ https://github.com/mwaugh0328/data_bootcamp_spring_2019
 
 Where I will be posting the code from each class that we worked through.
 
-How do you download a notebook? Simple, click on a notebook you want. Github should show the notebook, then right click on "raw" and do "save as" this will allow you to save the notebook to where ever you want on your computer. There you can see what we did, etc. 
+How do you download a notebook? Simple, click on a notebook you want. Github should show the notebook, then right click on "raw" and do "save as" this will allow you to save the notebook to where ever you want on your computer. There you can see what we did, etc.
 
 
 ---
