@@ -1,6 +1,19 @@
 # THE BLOG: Undergrad Spring 2019
 
 ---
+
+**Guide to what we have been doing with Pandas**
+
+Feels like we have been doing a lot and covering a lot of ground the past several classes. It also feels a bit confusing. Here is a recap of with the associated notebooks if you are lost...
+
+- Basics of Pandas. This clean notebook is **[here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/intro_to_pandas.ipynb)**.
+<br> The stuff that we did in class (2/25) is [here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/intro_pandas_225.ipynb) and (2/28) [here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/recap_pandas_228.ipynb).
+
+- How do I get data in and out of my computer. The clean notebook is **[here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/data_input_pandas.ipynb)** This has the PWT examples and the Pisa score examples.<br> The stuff we did in class (2/28) is [here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/input_data_pandas_0228.ipynb) and (3/5) [here](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/pandas_030519.ipynb)  
+
+
+
+---
 **Code Practice #2**
 
 This is [posted now](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf), lets complete this by the February 22nd.
