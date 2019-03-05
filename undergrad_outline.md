@@ -38,6 +38,7 @@ Last update: 1/22/2019
   - [Code Practice #3 (Due by ...)]()
   - [Code Practice #4 (Due by ...)]()
 - Take Home Midterm
+  - Starts March 13 at noon, due 5pm Friday 15. 
 - Guided project
 - Independent project
 
