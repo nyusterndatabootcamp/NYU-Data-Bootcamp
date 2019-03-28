@@ -8,7 +8,7 @@ Last update: 1/22/2019
 
 ## Where and When
 - Who:
-  - [Michael Waugh](mailto:bzweig@stern.nyu.edu)  (instructor)<br>
+  - [Michael Waugh](mailto:mwaugh@stern.nyu.edu)  (instructor)<br>
        Office Hours: in KMC 7-74, Times TBA <br>
        <br>
    - [Aditya Vashistha](mailto:aav331@stern.nyu.edu) (teaching fellow)<br>
@@ -36,11 +36,16 @@ Last update: 1/22/2019
   - [Code Practice #1 (Due by FEB 15)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf)
   - [Code Practice #2 (Due by FEB 24)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf)
   - [Code Practice #3 (Due by ...)]()
-  - [Code Practice #4 (Due by ...)]()
 - Take Home Midterm
-  - Starts March 13 at noon, due 5pm Friday 15. 
+  - Starts March 13 at noon, due 5pm Friday 15.
 - Guided project
+  - Basic data exploration (Due by April 8)
+  - Beer prices (several brands), one year, all markets (Due by April 22)
+  - Beer prices (several brands), all years, all markets with plots (Due by May 6th)
 - Independent project
+  - Three questions: April 11th
+  - Data report (and final question): May 2nd
+  - Final project: Monday May 20th
 
 ---
 
