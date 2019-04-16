@@ -39,9 +39,9 @@ Last update: 1/22/2019
 - Take Home Midterm
   - Starts March 13 at noon, due 5pm Friday 15.
 - Guided project
-  - Basic data exploration (Due by April 8)
-  - Beer prices (several brands), one year, all markets (Due by April 22)
-  - Beer prices (several brands), all years, all markets with plots (Due by May 6th)
+  - [Basic data exploration](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/guided_project/step_one_beer.ipynb) (Due by April 8)
+  - [Beer prices (several brands), one year](https://github.com/mwaugh0328/data_bootcamp_spring_2019/blob/master/guided_project/step_two_beer.ipynb) (Due by April 26)
+  - Beer prices (several brands), all years, with Miller-Weinberg plots (Due by May 6th)
 - Independent project
   - Three questions: April 11th
   - Data report (and final question): May 2nd
