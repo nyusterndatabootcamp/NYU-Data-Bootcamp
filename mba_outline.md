@@ -1,4 +1,4 @@
-# Data Bootcamp: MBA Spring 2019
+# Data Bootcamp: MBA Summer 2019
 
 ---
 
