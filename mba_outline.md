@@ -4,12 +4,9 @@
 
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
-- Teaching fellow: **Aditya Vashishta**(aav331@stern.nyu.edu)<br>
-                   **Rahul Menon**(rrm423@stern.nyu.edu) 
-- office hour: TBA
-- Meeting times: TBA
-
-- Meeting place: TBA
+- Teaching fellow: **Supriya Jha**(sj2685@nyu.edu)<br>
+- Meeting times: Mon & Wed 6PM to 9PM (May 22 to Jul 3)
+- Meeting place: KMEC  Room:2-80, Washington Square
 
 ---
 ## Important Links
@@ -23,10 +20,10 @@
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
 
 
-- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** Due Date: **TBA**
+- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** Due Date: **Jul 10, 2019**
 
 ---
-## Code Pratice Submissions
+## Problem Set Submissions
 
 Assignments will be posted on NYU Classes. Submit your python code in ipython notebook format on NYU Classes.
 
@@ -46,7 +43,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Class 2: Python fundamentals 2
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.<br>
-**What's due:** Problem Set 1
+**What's due:** Problem Set 1; Team submission (Just team member names..)
 
 ---
 ## Class 3: Python fundamentals 3
@@ -58,7 +55,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Class 4: Data Input, Packages, & Pandas
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
-**What's due:** Problem Set 3
+**What's due:** Problem Set 3; Project ideas submission
 
 ---
 ## Class 5: Matplotlib
@@ -71,7 +68,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **Handouts:**
 [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Different Pandas methods and review.<br>
-**What's due:** Team submission (Just the names..)
+**What's due:** 
 
 ---
 
@@ -84,7 +81,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Class 8: Regression
 **Handouts:** [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Basic Regression Analysis <br>
-**What's due:** Project ideas submission
+**What's due:** 
 
 ---
 ## Class 9: Shaping
