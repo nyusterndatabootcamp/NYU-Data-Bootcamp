@@ -46,15 +46,16 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **What's due:** Problem Set 1
 
 ---
-## Class 3 (Jun 3, 2019): Python fundamentals 3
+## Class 3 (Jun 3, 2019): Python fundamentals 3, Intro to packages and Pandas
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.<br>
+Packages; import; Pandas;
 **What's due:** Problem Set 2; Team submission (Just team member names..)
 
 ---
 ## Class 4 (Jun 5, 2019): Data Input, Packages, & Pandas
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
-**Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
+**Summary:**  csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
 **What's due:** Problem Set 3; Project ideas submission
 
 ---
