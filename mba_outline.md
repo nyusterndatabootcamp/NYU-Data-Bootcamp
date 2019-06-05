@@ -53,7 +53,7 @@ Packages; import; Pandas;
 **What's due:** Problem Set 2; Team submission (Just team member names..)
 
 ---
-## Class 4 (Jun 5, 2019): Data Input, Packages, & Pandas
+## Class 4 (Jun 5, 2019): Data Input, Data Cleaning & Filtering
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
 **What's due:** Problem Set 3; Project ideas submission
