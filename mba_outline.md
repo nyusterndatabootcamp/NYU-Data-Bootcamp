@@ -53,13 +53,13 @@ Packages; import; Pandas;
 **What's due:** Problem Set 2; Team submission (Just team member names..)
 
 ---
-## Class 4 (Jun 5, 2019): Data Input, Data Cleaning & Filtering
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/pandas-input) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/intro_to_pandas.ipynb) | ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
-**Summary:**  csv files; reading csv/xls files; dataframes; columns; index; APIs.<br>
+## Class 4 (Jun 5, 2019): Cleaning & Filtering
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Summary:**  Cleaning and filtering data.<br>
 **What's due:** Problem Set 3; Project ideas submission
 
 ---
-## Class 5 (Jun 12, 2019): Matplotlib
+## Class 5 (Jun 12, 2019): Matplotlib (intro)
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.<br>
 **What's due:** Problem Set 4
