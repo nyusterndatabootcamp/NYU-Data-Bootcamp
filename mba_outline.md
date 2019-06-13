@@ -59,49 +59,45 @@ Packages; import; Pandas;
 **What's due:** Problem Set 3; Project ideas submission
 
 ---
-## Class 5 (Jun 12, 2019): Matplotlib (intro)
+## Class 5 (Jun 12, 2019): Matplotlib
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.<br>
 **What's due:** Problem Set 4
 
 ---
-## Class 6 (Jun 17, 2019): Pandas Methods & Review
+## Class 6 (Jun 17, 2019): Shaping and Continuation of Matplotlib
 **Handouts:**
-[Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
-**Summary:**  Different Pandas methods and review.<br>
-**What's due:** 
-
----
-
-## Class 7 (Jun 19, 2019): Cleaning & Filtering
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
-**Summary:**  Cleaning and filtering data.<br>
+(https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
+Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Summary:**  Aggregations and grouping the data <br>
 **What's due:** Problem Set 5
 
 ---
-## Class 8 (Jun 24, 2019): Regression
-**Handouts:** [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+## Class 7 (Jun 19, 2019): Regression
+**Handouts:** 
 **Summary:**  Basic Regression Analysis <br>
-**What's due:** 
+**What's due:** Nothing!
 
 ---
-## Class 9 (Jun 26, 2019): Shaping
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
-**Summary:**  Aggregations and grouping the data. <br>
+## Class 8 (Jun 24, 2019): Merging
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Summary:**  Merging <br>
 **What's due:** Problem Set 6
 
 ---
-## Class 10 (Jul 1, 2019): Combining & intro to Machine Learning
+## Class 9 (Jun 26, 2019): Machine Learning 1
+**Handouts:**  [Outline]
+**What's due:** Nothing!
+
+---
+## Class 10 (Jul 1, 2019): Machine Learning 2
 **Handouts:** 
 ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate). We will also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
 **What's due:** Problem Set 7, Submit project data & show input with basic diagnostics
 
-
-
-<!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
-## Class 11 (Jul 3, 2019): Project help & Machine Learning, Data Analysis workflow
+## Class 11 (Jul 3, 2019): Wrap Up & Data Analysis workflow
 **Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  More into ML and project discussions.<br> Walk through a data analysis pipeline from importing, exploring, cleaning, visualizing and forming analysis.<br>
 **What's due:**  Problem Set 8
