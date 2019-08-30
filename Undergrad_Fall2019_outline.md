@@ -4,7 +4,7 @@
 
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
-- Teaching fellow: **Richard Li**(rjl448@nyu.edu)<br>
+- Teaching fellow: **Richard Li** (rjl448@nyu.edu)<br>
 - Meeting times: Tues/Thurs 9:30AM - 10:45AM (Class 1); 11AM - 12:15PM (Class 2); 
 - Meeting place: KMEC  Room:2-80, Washington Square
 
