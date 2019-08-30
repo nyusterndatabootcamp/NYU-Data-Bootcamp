@@ -20,7 +20,7 @@
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
 
 
-- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** Due Date: **Jul 10, 2019**
+- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** Due Date: **Dec 19, 2019**
 
 ---
 ## Problem Set Submissions
@@ -29,21 +29,20 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 
-### Week By Week Guide...
+### Week By Week Topic Guide...
 
 <br>
 
-## Class 1 (May 22, 2019): Python Fundamentals 1
+## Python Fundamentals:(9/3, 9/5, & 9/10) 
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_intro.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
 
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [cancer screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [medical expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender pay gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
-**Summary:**  It's nice to have skills; installing Anaconda; Spyder and Jupyter/IPython; data; questions; idea machines.
+**Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.<br>
+**What's due:** Problem Set 1
 
 ---
 ## Class 2 (May 29, 2019): Python fundamentals 2
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) <br>
-**Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.<br>
-**What's due:** Problem Set 1
 
 ---
 ## Class 3 (Jun 3, 2019): Python fundamentals 3, Intro to packages and Pandas
