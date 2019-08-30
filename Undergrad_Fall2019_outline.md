@@ -4,14 +4,14 @@
 
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
-- Teaching fellow: **Richard Li** (rjl448@nyu.edu)<br>
-- Meeting times: Tues/Thurs 9:30AM - 10:45AM (Class 1); 11AM - 12:15PM (Class 2); 
+- Teaching Fellow: **Richard Li** (rjl448@nyu.edu)<br>
+- Meeting times: Tues/Thurs 9:30AM - 10:45AM (Class 1); 11AM - 12:15PM (Class 2)
 - Meeting place: KMEC  Room:2-80, Washington Square
 
 ---
 ## Important Links
 
-- **[THE SYLLABUS.](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/MBA_Summer_2019_Syllabus.pdf)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS.](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_F19.docx)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK.](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
