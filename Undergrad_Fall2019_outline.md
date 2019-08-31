@@ -103,8 +103,8 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 ## Wrap Up & Data Analysis Workflow: (12/12)
-**Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
+**Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb) | [Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  More into ML and project discussions.<br> Walk through a data analysis pipeline from importing, exploring, cleaning, visualizing and forming analysis.<br>
 **What's due:**  Problem Set 8
 
-**Final Project Due Date:** Jul 10, 2019
+**Final Project Due Date:** Dec 19, 2019
