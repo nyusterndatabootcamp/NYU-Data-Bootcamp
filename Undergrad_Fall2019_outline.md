@@ -29,7 +29,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 
-### Week By Week Topic Guide...
+## Week By Week Topic Guide...
 
 <br>
 
