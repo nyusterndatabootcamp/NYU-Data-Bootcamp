@@ -43,7 +43,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ---
 ## Python Fundamentals II, Intro to Packages: (9/10 & 9/12) 
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | <br>
-**Summary:**  Slicing; loops; function definitions and returns; dictionaries.
+**Summary:**  Slicing; loops; function definitions and returns; dictionaries. <br>
 Packages; import; Pandas. <br>
 **What's due:** Problem Set 2; Team submission (Just team member names..)
 
@@ -57,21 +57,15 @@ Packages; import; Pandas. <br>
 **What's due:** Problem Set 3; Project ideas submission
 
 ---
-## 10/1 - NO CLASS - HOLIDAY
+## 10/1 - NO CLASS (HOLIDAY)
 
 ---
-## Class 5 (Jun 12, 2019): Matplotlib
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
-**Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.<br>
-**What's due:** Problem Set 4
-
----
-## Class 6 (Jun 17, 2019): Shaping and Matplotlib
-**Handouts:**
-(https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
+## Shaping and Matplotlib: (10/3, 10/8, 10/10 & 10/17)
+**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)| [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
+[Code Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
 Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
-**Summary:**  Aggregations and grouping the data <br>
-**What's due:** Problem Set 5
+**Summary:** Aggregations and grouping data; three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
+**What's due:** Problem Set 4
 
 ---
 ## Class 7 (Jun 19, 2019): Regression
