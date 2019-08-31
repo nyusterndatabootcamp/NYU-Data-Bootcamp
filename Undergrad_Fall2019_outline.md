@@ -61,38 +61,49 @@ Packages; import; Pandas. <br>
 
 ---
 ## Shaping and Matplotlib: (10/3, 10/8, 10/10 & 10/17)
-**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)| [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
-[Code Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
+**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1)| [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb)
+[Code_Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
 Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:** Aggregations and grouping data; three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
 **What's due:** Problem Set 4
 
 ---
-## Class 7 (Jun 19, 2019): Regression
+## 10/15 & 10/22 - NO CLASS (HOLIDAY)
+
+---
+## 10/22 - EXAM REVIEW <br>
+## 10/24 - MIDTERM EXAM <br>
+
+---
+## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Summary:**  Merging and Data Analysis Workflow I <br>
+**What's due:** Problem Set 5
+
+---
+## 11/12 - PROJECT TOUCHPOINT
+
+---
+## Regression: (11/14, 11/19 & 11/21)
 **Handouts:** 
 **Summary:**  Basic Regression Analysis <br>
 **What's due:** Nothing!
 
 ---
-## Class 8 (Jun 24, 2019): Merging
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
-**Summary:**  Merging <br>
-**What's due:** Problem Set 6
+## 11/26 - PROJECT TOUCHPOINT
 
 ---
-## Class 9 (Jun 26, 2019): Machine Learning 1
-**Handouts:**  [Outline]
-**What's due:** Nothing!
+## 11/28 - NO CLASS (THANKSGIVING)
 
 ---
-## Class 10 (Jul 1, 2019): Machine Learning 2
+## Machine Learning: (12/3, 12/5 & 12/10)
 **Handouts:** 
 ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate). We will also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
-**What's due:** Problem Set 7, Submit project data & show input with basic diagnostics
+**What's due:** Problem Set 6, Submit project data & show input with basic diagnostics
 
 ---
-## Class 11 (Jul 3, 2019): Wrap Up & Data Analysis workflow
+## Wrap Up & Data Analysis Workflow: (12/12)
 **Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  More into ML and project discussions.<br> Walk through a data analysis pipeline from importing, exploring, cleaning, visualizing and forming analysis.<br>
 **What's due:**  Problem Set 8
