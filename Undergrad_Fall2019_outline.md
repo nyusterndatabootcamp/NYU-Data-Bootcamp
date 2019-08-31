@@ -35,7 +35,6 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ## Python Fundamentals: (9/3 & 9/5) 
 **Handouts:**  [9/3 Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_intro.pdf) | [9/5 Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
-
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [Cancer Screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [Medical Expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [Mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [Earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender Pay Gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  Intro; calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion; True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.<br>
 **What's due:** Problem Set 1
@@ -76,7 +75,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ---
 ## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
-**Summary:**  Merging and Data Analysis Workflow I <br>
+**Summary:**  Merging and Data Analysis Workflow I. <br>
 **What's due:** Problem Set 5
 
 ---
