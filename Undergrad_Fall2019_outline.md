@@ -60,9 +60,9 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 ## Shaping and Matplotlib: (10/3, 10/8, 10/10 & 10/17)
-**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br> [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb)
-[Code_Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | <br>
-Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br> [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) | 
+[Code_Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) <br>
+**Code** ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:** Aggregations and grouping data; three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
 **What's due:** Problem Set 4
 
@@ -75,7 +75,7 @@ Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/b
 
 ---
 ## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
 **Summary:**  Merging and Data Analysis Workflow I <br>
 **What's due:** Problem Set 5
 
@@ -84,7 +84,7 @@ Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/b
 
 ---
 ## Regression: (11/14, 11/19 & 11/21)
-**Handouts:** 
+**Handouts:** <br>
 **Summary:**  Basic Regression Analysis <br>
 **What's due:** Nothing!
 
@@ -97,13 +97,13 @@ Code ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/b
 ---
 ## Machine Learning: (12/3, 12/5 & 12/10)
 **Handouts:** 
-([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
+([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb) | [Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate). We will also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
-**What's due:** Problem Set 6, Submit project data & show input with basic diagnostics
+**What's due:** Problem Set 6; Submit project data & show input with basic diagnostics
 
 ---
 ## Wrap Up & Data Analysis Workflow: (12/12)
-**Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
+**Handouts:**  ([Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb)|[Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb))<br>
 **Summary:**  More into ML and project discussions.<br> Walk through a data analysis pipeline from importing, exploring, cleaning, visualizing and forming analysis.<br>
 **What's due:**  Problem Set 8
 
