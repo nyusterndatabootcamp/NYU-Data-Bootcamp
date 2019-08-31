@@ -69,8 +69,8 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## 10/15 & 10/22 - NO CLASS (HOLIDAY)
 
 ---
-## 10/22 - EXAM REVIEW <br>
-## 10/24 - MIDTERM EXAM <br>
+## 10/24 - EXAM REVIEW <br>
+## 10/29 - MIDTERM EXAM <br>
 
 ---
 ## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
