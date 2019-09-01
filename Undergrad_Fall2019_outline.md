@@ -5,8 +5,8 @@
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
 - Teaching Fellow: **Richard Li** (rjl448@nyu.edu)<br>
-- Meeting times: Tues/Thurs (9:30AM - 10:45AM; 11AM - 12:15PM)
-- Meeting place: KMEC  Room: 2-80, Washington Square
+- Meeting times: Tues/Thurs (2:00PM - 3:15PM; 3:30PM - 4:45PM)
+- Meeting place: KMEC  Room: 3-90, Washington Square
 
 ---
 ## Important Links
@@ -74,7 +74,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 ## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) <br>
 **Summary:**  Merging and Data Analysis Workflow I. <br>
 **What's due:** Problem Set 5
 
