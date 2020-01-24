@@ -33,20 +33,17 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 <br>
 
-## Python Fundamentals: (9/3 & 9/5) 
+## Python Fundamentals I: (1/29) 
 **Handouts:**  [9/3 Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_intro.pdf) | [9/5 Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun1.pdf) | [Book](https://nyudatabootcamp.gitbook.io/thebook) | [Three ideas](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_3ideas.pdf) <br>
 **Examples:**  [Gapminder](http://www.gapminder.org/world/) | [Cancer Screening](http://www.vox.com/2015/10/28/9631500/does-mammography-work) | [Uber in NYC](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/) | [Medical Expenditures](http://www.nihcm.org/pdf/DataBrief3%20Final.pdf) | [Mortality](http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf) | [Earthquake](https://jawbone.com/blog/napa-earthquake-effect-on-sleep/) | [Gender Pay Gap](http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html) | [Fertility](http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/) | [Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/) <br>
 **Summary:**  Intro; calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion; True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.<br>
 **What's due:** 
 
 ---
-## Python Fundamentals II, Intro to Packages: (9/10 & 9/12) 
+## Python Fundamentals II, Intro to Packages: (2/5) 
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) <br>
 **Summary:**  Slicing; loops; function definitions and returns; dictionaries; packages; import; Pandas. <br>
 **What's due:** Problem Set 1 (9/12); 
-
----
-## 9/17 - NO CLASS
 
 ---
 ## Cleaning & Filtering: (9/19, 9/24 & 9/26)
