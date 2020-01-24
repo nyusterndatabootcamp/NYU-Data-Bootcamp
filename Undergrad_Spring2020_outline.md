@@ -46,28 +46,37 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **What's due:** Problem Set 1 (9/12); 
 
 ---
-## Cleaning & Filtering: (9/19, 9/24 & 9/26)
+## Cleaning: (2/12)
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
-**Summary:**  Cleaning and filtering data.<br>
-**What's due:** Problem Set 2 (9/26); Team submission (Just team member names..) (9/26)
+**Summary:**  Cleaning datasets.<br>
+**What's due:** 
 
 ---
-## 10/1 - NO CLASS (HOLIDAY)
+## Filtering: (2/19)
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) |[Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)|[Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb)) <br>
+**Summary:**  Filtering data.<br>
+**What's due:** 
 
 ---
-## Shaping and Matplotlib: (10/3, 10/8, 10/10 & 10/17)
-**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf) | [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br> [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) | 
+## Shaping: (2/26)
+**Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf)| [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br> [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
+**Code** ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Summary:** Aggregations and grouping data; three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
+**What's due:** 
+
+---
+## 3/4 - PROJECT TOUCHPOINT
+
+---
+## Matplotlib: (3/11)
+**Handouts:** [Matplotlib Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br>
 [Code_Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) <br>
 **Code** ([examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:** Aggregations and grouping data; three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
-**What's due:** Problem Set 3 (10/8); Project ideas submission (10/8); Problem Set 4 (10/17);
+**What's due:** 
 
 ---
-## 10/15 & 10/22 - NO CLASS (HOLIDAY)
-
----
-## 10/24 - EXAM REVIEW <br>
-## 10/29 - MIDTERM EXAM <br>
+## 3/18 - NO CLASS (SPRING BREAK)
 
 ---
 ## Merging and Data Analysis Workflow I: (10/31, 11/5 & 11/7)
