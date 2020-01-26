@@ -101,7 +101,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **Handouts:** 
 <br>
 **Summary:**  We will cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
-**What's due:** 
+**What's due:**
 
 ---
 ## 5/6 - PROJECT TOUCHPOINT
