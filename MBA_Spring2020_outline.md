@@ -4,8 +4,8 @@
 
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
-- Teaching Fellow: **Shinyoung Park** (syp346@stern.nyu.edu)<br>
-- Meeting times: Wed (5:00PM - 7:45PM)
+- Teaching Fellow: **Minzhi Meng** (mm9932@nyu.edu)<br>
+- Meeting times: Thursday (5:00PM - 7:45PM)
 - Meeting place: Tisch UC-25, Washington Square
 
 ---
