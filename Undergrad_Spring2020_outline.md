@@ -11,7 +11,7 @@
 ---
 ## Important Links
 
-- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_F19.docx)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_S20.docx)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
@@ -43,7 +43,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Python Fundamentals II, Intro to Packages: (2/5) 
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) <br>
 **Summary:**  Slicing; loops; function definitions and returns; dictionaries; packages; import; Pandas. <br>
-**What's due:** Problem Set 1 (9/12); 
+**What's due:** 
 
 ---
 ## Cleaning: (2/12)
