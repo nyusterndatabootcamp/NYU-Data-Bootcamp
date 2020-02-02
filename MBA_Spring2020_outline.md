@@ -1,4 +1,4 @@
-# Data Bootcamp: Undergraduate Spring 2020
+# Data Bootcamp: MBA Spring 2020
 
 ---
 
