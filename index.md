@@ -7,11 +7,9 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 **Course Sites:**
+- **[Spring 2020 MBA](MBA_Spring2020_outline.md)**
+
 - **[Spring 2020 Undergrad](Undergrad_Spring2020_outline.md)**
-
-- **[Fall 2019 Undergrad](Undergrad_Fall2019_outline.md)**
-
-- **[Spring 2019 Undergrad](undergrad_outline.md)**
 
 
 ## Quicklinks:
