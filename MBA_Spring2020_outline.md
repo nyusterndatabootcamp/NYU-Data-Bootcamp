@@ -5,13 +5,13 @@
 ## Where and When
 - Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
 - Teaching Fellow: **Minzhi Meng** (mm9932@nyu.edu)<br>
-- Meeting times: Thursday (5:00PM - 7:45PM)
-- Meeting place: Tisch UC-25, Washington Square
+- Meeting times: Thursday (1:30PM - 4:20PM)
+- Meeting place: KMEC 2-65, Washington Square
 
 ---
 ## Important Links
 
-- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_UG_S20.docx)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_MBA_S20.docx)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
