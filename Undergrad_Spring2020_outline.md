@@ -79,9 +79,9 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## 3/18 - NO CLASS (SPRING BREAK)
 
 ---
-## Merging and Data Analysis Workflow I: (4/1)
+## Merging: (4/1)
 **Handouts:** [Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb) | [Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb) <br>
-**Summary:**  Merging and Data Analysis Workflow. Combining dataframes (merge, concatenate). <br>
+**Summary:**  Merging. Combining dataframes (merge, concatenate). <br>
 **What's due:** 
 
 ---
@@ -94,13 +94,10 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **What's due:** 
 
 ---
-## 11/26 - PROJECT TOUCHPOINT
-
----
 ## Machine Learning: (4/29 & 5/6)
 **Handouts:** 
 <br>
-**Summary:**  We will cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.<br>
+**Summary:**  We will cover Scikit-learn, a Machine Learning package, to model various classification, regression and clustering algorithms.<br>
 **What's due:**
 
 ---
