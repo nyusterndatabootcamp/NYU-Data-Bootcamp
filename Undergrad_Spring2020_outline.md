@@ -55,7 +55,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Filtering: (2/19)
 **Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-clean.pdf) | [Code_Pandas_Cleaning](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv1-clean.ipynb)| [Applications](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) <br>
 **Summary:**  Filtering data.<br>
-**What's due:** 
+**What's due:** Problem Set 2 by 11:55pm
 
 ---
 ## Shaping: (2/26)
