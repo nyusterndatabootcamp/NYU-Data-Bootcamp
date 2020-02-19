@@ -62,7 +62,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 **Handouts:** [Shaping Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-shape.pdf)| [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/graphs1) <br> [Code_Pandas_Shaping](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
 **Code** [examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb) <br>
 **Summary:** Aggregations and grouping data <br>
-**What's due:** 
+**What's due:** Problem Set 3 by 11:55pm
 
 ---
 ## 3/4 - PROJECT TOUCHPOINT
