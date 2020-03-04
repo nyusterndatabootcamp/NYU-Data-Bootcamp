@@ -74,7 +74,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 [Code_Matplotlib](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) <br>
 **Code** [examples](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb) <br>
 **Summary:** Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.  <br>
-**What's due:** 
+**What's due:** Problem Set 4 by 11:55pm on 3/11
 
 ---
 ## 3/18 - NO CLASS (SPRING BREAK)
