@@ -83,7 +83,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## Merging: (4/1)
 **Handouts:** [Code_Pandas_Combining](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv4-merge-extended.ipynb) | [Summarizing](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/bootcamp_pandas_adv5-summarize.ipynb) <br>
 **Summary:**  Merging. Combining dataframes (merge, concatenate). <br>
-**What's due:** 
+**What's due:** Problem Set 5 by 11:55pm
 
 ---
 ## 4/8 & 4/15 - NO CLASS(HOLIDAY)
@@ -103,6 +103,7 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 
 ---
 ## 5/6 - PROJECT TOUCHPOINT
+**What's due:** Problem Set 6 by 11:55pm
 
 ---
 ## 5/13 - FINAL PROJECT DUE
