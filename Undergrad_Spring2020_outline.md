@@ -15,9 +15,9 @@
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
-- **[NOTEBOOKS]** Notebooks used in class are posted on NYU Classes under the Resources tab. 
+- **NOTEBOOKS** Notebooks used in class are posted on NYU Classes under the Resources tab. 
 
-- **[Final Project]** (Due **May 13, 2020**)
+- **Final Project** (Due **May 13, 2020**)
 
 ---
 ## Problem Set Submissions
