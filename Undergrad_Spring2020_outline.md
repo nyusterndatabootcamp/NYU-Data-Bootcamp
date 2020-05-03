@@ -15,12 +15,9 @@
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
-- **[NOTEBOOKS](https://github.com/nyusterndatabootcamp/notebooks/tree/master/book_notebooks)** Github repository of notebooks used in class.
+- **[NOTEBOOKS]** Notebooks used in class are posted on NYU Classes under the Resources tab. 
 
-- **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
-
-
-- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** (Due **May 13, 2020**)
+- **[Final Project]** (Due **May 13, 2020**)
 
 ---
 ## Problem Set Submissions
