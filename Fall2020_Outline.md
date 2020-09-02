@@ -17,7 +17,7 @@
 
 - **[NOTEBOOKS](https://github.com/nyusterndatabootcamp/notebooks/tree/master/book_notebooks)** Github repository of notebooks used in class.
 
-
+- **[MidTerm Project Guidelines](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Midterm Project_Fall2020)
 
 - **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** 
 
