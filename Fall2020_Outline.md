@@ -19,7 +19,6 @@
 
 - **[MidTerm Project Guidelines](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Midterm_Project_Fall2020.pdf)**
 
-- **[Final Project](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_project_turnin.pdf)** 
 
 ---
 ## Problem Set Submissions
