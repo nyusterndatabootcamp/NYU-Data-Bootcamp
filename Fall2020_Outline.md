@@ -97,4 +97,4 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## PROJECT TOUCHPOINT
 
 ---
-## FINAL PROJECT DUE
+## FINAL PROJECT DUE (December 17, 2020)
