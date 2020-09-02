@@ -11,7 +11,7 @@
 ---
 ## Important Links
 
-- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_MBA_S20.docx)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_F20.pdf)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
