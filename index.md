@@ -13,6 +13,9 @@ If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 - **[Spring 2020 Undergrad](Undergrad_Spring2020_outline.md)**
 
+- **[Fall 2021 Undergrad](Spring2021_Outline.md.md)**
+
+
 
 ## Quicklinks:
 **[Book](https://nyudatabootcamp.gitbook.io/thebook/)** | **[Data Sources](data.md)**
