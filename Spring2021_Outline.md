@@ -19,7 +19,7 @@
 
 - **[MID-TERM PROJECT GUIDELINES](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Midterm_project_guidelines_Spring2021.pdf)**
 
-- **[FINAL PROJECT GUIDELINES](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/fall_2020_project_guidelines.pdf)**
+- **[FINAL PROJECT GUIDELINES](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/spring2021_final_project_guidelines.pdf)**
 
 
 
