@@ -3,15 +3,15 @@
 ---
 
 ## Where and When
-- Instructor: **Benjamin Zweig** (bzweig@stern.nyu.edu)
+- Instructor: **Benjamin Zweig** (bz425@stern.nyu.edu)
 - Teaching Fellow: **Praxal Patel** (psp334@nyu.edu)<br>
-- Meeting times: Tuesday and Thursday (3:30PM - 4:45PM)
+- Meeting times: Tuesday (5:00PM - 7:45PM)
 - Meeting place: Online (Meeting links can be under Zoom tab on NYU classes)
 
 ---
 ## Important Links
 
-- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_F20.pdf)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/DataBootcamp_Syllabus_S21.pdf)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK](https://nyudatabootcamp.gitbook.io/thebook/)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
