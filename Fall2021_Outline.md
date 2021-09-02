@@ -5,8 +5,8 @@
 ## Where and When
 - Instructor: **Benjamin Zweig** (bz425@stern.nyu.edu)
 - Teaching Fellows: **Duey Xu** (dx2028@nyu.edu), **Yash Thesia** (yt2188@nyu.edu)<br>
-- Meeting times: Thursday (2:00PM - 4:50PM)
-- Meeting place: Online (Meeting links can be under Zoom tab on NYU classes)
+- Meeting times: Tuesday (5:00PM - 7:45PM)
+- Meeting place: Bldg:TISC Room: LC25 Loc: Washington Square
 
 ---
 ## Important Links
