@@ -3,10 +3,10 @@
 ---
 
 ## Where and When
-- Instructor: **Benjamin Zweig** (bz425@stern.nyu.edu)
+- Instructor: **Pablo Crespo**
 - Teaching Fellows: **Duey Xu** (dx2028@nyu.edu), **Yash Thesia** (yt2188@nyu.edu)<br>
-- Meeting times: Thursday (2:00PM - 4:50PM)
-- Meeting place: Online (Meeting links can be under Zoom tab on NYU classes)
+- Meeting times: Thursday
+- Meeting place: TBD
 
 ---
 ## Important Links
