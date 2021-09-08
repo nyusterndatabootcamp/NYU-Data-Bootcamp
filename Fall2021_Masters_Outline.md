@@ -5,8 +5,8 @@
 ## Where and When
 - Instructor: **Pablo Crespo**
 - Teaching Fellows: **Duey Xu** (dx2028@nyu.edu), **Yash Thesia** (yt2188@nyu.edu)<br>
-- Meeting times: Thursday
-- Meeting place: TBD
+- Meeting times: Thursday 3:30pm
+- Meeting place: Henry Kaufman Management Education Center 5-75
 
 ---
 ## Important Links
@@ -99,4 +99,4 @@ Assignments will be posted on NYU Classes. Submit your python code in ipython no
 ## PROJECT TOUCHPOINT
 
 ---
-## FINAL PROJECT DUE (December 21, 2021)
+## FINAL PROJECT DUE (December, 2021)
