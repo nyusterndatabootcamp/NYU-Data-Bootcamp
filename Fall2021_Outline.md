@@ -19,6 +19,8 @@
 
 - **[MID-TERM PROJECT GUIDELINES](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Midterm_project_guidelines_Spring2021.pdf)**
 
+- **[CAMPUSWIRE PAGE](https://campuswire.com/p/G0645DAA3)** The password will be sent to your NYU emails.
+
 
 
 
