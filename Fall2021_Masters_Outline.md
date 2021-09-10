@@ -3,7 +3,7 @@
 ---
 
 ## Where and When
-- Instructor: **Pablo Crespo**
+- Instructor: **Pablo Crespo** (pac433@stern.nyu.edu)
 - Teaching Fellows: **Duey Xu** (dx2028@nyu.edu), **Yash Thesia** (yt2188@nyu.edu)<br>
 - Meeting times: Thursday 3:30pm
 - Meeting place: Henry Kaufman Management Education Center 5-75
