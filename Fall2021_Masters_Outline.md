@@ -28,7 +28,7 @@
 ---
 ## Problem Set Submissions
 
-Assignments will be posted on NYU Classes. Submit your python code in ipython notebook format on NYU Classes.
+Assignments will be posted on Brightspace. Submit your python code in ipython notebook format on Brightspace.
 
 ---
 
