@@ -7,8 +7,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ](faq.md).
 
 **Course Sites:**
-- **[Fall 2021 Undergrad](Fall2021_Outline.md)**
-- **[Fall 2021 MBA](Fall2021_Masters_Outline.md)**
+- **[Fall 2022](Fall2021_Masters_Outline.md)**
 
 
 ## Quicklinks:
