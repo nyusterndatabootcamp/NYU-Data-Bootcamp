@@ -1,4 +1,4 @@
-# Data Bootcamp: Fall 2021
+# Data Bootcamp: Spring 2022
 
 ---
 
