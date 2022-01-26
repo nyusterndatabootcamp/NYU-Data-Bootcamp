@@ -18,7 +18,7 @@
 
 - **[MID-TERM PROJECT GUIDELINES](https://github.com/nyusterndatabootcamp/NYU-Data-Bootcamp/blob/master/Midterm_project_guidelines_Spring2021.pdf)**
 
-- **[CAMPUSWIRE PAGE](https://campuswire.com/p/G4A9DE99D)** The passcode is 7767.
+- **[CAMPUSWIRE PAGE](https://campuswire.com/p/G4A9DE99D)** Post any course-related questions (homework, administrative, etc.) here - the passcode is 7767.
 
 
 
