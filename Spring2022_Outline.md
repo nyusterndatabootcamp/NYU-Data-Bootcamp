@@ -27,7 +27,7 @@
 ---
 ## Problem Set Submissions
 
-Assignments will be posted on Brightspace. Submit your python code in ipython notebook format on Brightspace.
+Assignments will be posted on Brightspace. Submit your work in both ipython notebook (.ipynb) and PDF (.pdf) format on Brightspace.
 
 ---
 
